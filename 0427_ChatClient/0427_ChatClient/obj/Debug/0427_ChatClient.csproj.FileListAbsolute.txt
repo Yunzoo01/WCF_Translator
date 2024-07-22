@@ -1,0 +1,64 @@
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\bin\Debug\0427_ChatClient.exe
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\bin\Debug\0427_ChatClient.exe.config
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\App.g.cs
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient_MarkupCompile.cache
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient_MarkupCompile.lref
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.g.resources
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\_0427_ChatClient.Properties.Resources.resources
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.exe
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.pdb
+C:\Users\user\Desktop\0427_ChatClient\0427_ChatClient\bin\Debug\0427_ChatClient.pdb
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\bin\Debug\0427_ChatClient.exe.config
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\bin\Debug\0427_ChatClient.exe
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\bin\Debug\0427_ChatClient.pdb
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.AssemblyReference.cache
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.SuggestedBindingRedirects.cache
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\MainWindow.g.cs
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\App.g.cs
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient_MarkupCompile.cache
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient_MarkupCompile.lref
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\MainWindow.baml
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.g.resources
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\_0427_ChatClient.Properties.Resources.resources
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.GenerateResource.cache
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.CoreCompileInputs.cache
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.exe
+D:\07_고급과정\08_wcf\day39\0427_1대1\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.pdb
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\bin\Debug\0427_ChatClient.exe.config
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\bin\Debug\0427_ChatClient.exe
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\bin\Debug\0427_ChatClient.pdb
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.AssemblyReference.cache
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.SuggestedBindingRedirects.cache
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\MainWindow.g.cs
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\App.g.cs
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient_MarkupCompile.cache
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient_MarkupCompile.lref
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\MainWindow.baml
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.g.resources
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\_0427_ChatClient.Properties.Resources.resources
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.GenerateResource.cache
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.CoreCompileInputs.cache
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.exe
+D:\07_고급과정\08_wcf\day39\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.pdb
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\bin\Debug\0427_ChatClient.exe.config
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\bin\Debug\0427_ChatClient.exe
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\bin\Debug\0427_ChatClient.pdb
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.AssemblyReference.cache
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\App.g.cs
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient_MarkupCompile.cache
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient_MarkupCompile.lref
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\MainWindow.baml
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.g.resources
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\_0427_ChatClient.Properties.Resources.resources
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.GenerateResource.cache
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.exe
+C:\Users\97858\Desktop\조별 실습\조별실습_0427\0427_1대다\0427_ChatClient\0427_ChatClient\obj\Debug\0427_ChatClient.pdb

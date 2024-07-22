@@ -1,9 +1,7 @@
 # WCF_Translator
 
 ## 🌻Description
-This project is a WCF-based translator chatbot designed to facilitate communication across different languages.\  
-It uses WCF (Windows Communication Foundation) for backend services, enabling reliable and scalable communication. \  
-The frontend is built using XAML, providing a rich and responsive user interface. \  
+This project is a WCF-based translator chatbot designed to facilitate communication across different languages. It uses WCF (Windows Communication Foundation) for backend services, enabling reliable and scalable communication.  The frontend is built using XAML, providing a rich and responsive user interface.
 
 - Real-time message translation using Papago API
 - Efficiently processing chat messages with asynchronous operations
